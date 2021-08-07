@@ -23,6 +23,7 @@
    <img align="center" alt="Delphi" height="35" width="35" src="https://o.remove.bg/downloads/7d58d4ee-3919-4eef-9387-689dad86b1b3/image-removebg-preview.png">
  <img align="center" alt="Lua" height="35" width="50" src="https://o.remove.bg/downloads/008c5aa2-e378-4097-b984-2df3aca29af7/7043954_preview-removebg-preview.png">
   <img align="center" alt="Lua" height="35" width="50" src="https://apprecs.org/ios/images/app-icons/256/48/701199944.jpg">
+ <img align="center" alt="Lua" height="35" width="50" src=" https://datapanorama.in/storage/node_js.png">
 </div></br>
   
 ##- 📫 Como entrar em contato comigo:
