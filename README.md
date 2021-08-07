@@ -9,17 +9,21 @@
   <img height="145rem" src="https://github-readme-stats.vercel.app/api?username=LuanMiranda77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMiranda77&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+##-💻 Tecs dominantes:  
 <div><br>
-  <img align="center" alt="java" height="35" width="35" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png">
-  <img align="center" alt="Php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="KiXtart" height="50" width="50" src="http://kixtart.org/favicon.ico">
-  <img align="center" alt="Euphoria" height="35" width="35" src="https://openeuphoria.org/logos/80x84-mongoose-color-lite.png">
-  <img align="center" alt="Batch script" height="35" width="35" src="https://img.icons8.com/fluency/96/000000/console.png"/>
-  <img align="center" alt="Vb .NET/VB Classic/VBScript" height="35" width="35" src="https://i.imgur.com/9MTCk0Z.png">
-  <img align="center" alt="Delphi" height="35" width="35" src="https://i.imgur.com/vIVu1I3.png">
-  <img align="center" alt="Lua" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/260px-Lua-Logo.svg.png">
+  <img align="center" alt="java" height="50" width="50" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png">
+  <img align="center" alt="script" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
+  <img align="center" alt="type" margim-left="2" height="35" width="35" src="https://iconape.com/wp-content/png_logo_vector/typescript.png">
+  <img align="center" alt="Euphoria" height="35" width="35" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+  <img align="center" alt="Batch script" height="35" width="35" src="https://adus.tech/wp-content/uploads/2021/05/html5-logo.png"/>
+  <img align="center" alt="Vb .NET/VB Classic/VBScript" height="30" width="35" src="https://o.remove.bg/downloads/b7087648-2c40-4300-bcd1-506948f430b2/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072-removebg-preview.png">
 </div><br/>
+##-🌐 Banco de dados dominantes: 
+<div><br>
+   <img align="center" alt="Delphi" height="35" width="35" src="https://o.remove.bg/downloads/7d58d4ee-3919-4eef-9387-689dad86b1b3/image-removebg-preview.png">
+ <img align="center" alt="Lua" height="35" width="50" src="https://o.remove.bg/downloads/008c5aa2-e378-4097-b984-2df3aca29af7/7043954_preview-removebg-preview.png">
+  <img align="center" alt="Lua" height="35" width="50" src="https://apprecs.org/ios/images/app-icons/256/48/701199944.jpg">
+</div></br>
   
 ##- 📫 Como entrar em contato comigo:
   
