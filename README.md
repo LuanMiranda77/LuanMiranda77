@@ -1,4 +1,4 @@
-### Luan Miranda 👋
+https://img.icons8.com/color/2x/nodejs.png### Luan Miranda 👋
 
 - 🔭 Atualmente estou trabalhando na empresa Menew digital
 - 🌱 Atualmente estou aprendendo react.js com TypeScript
@@ -16,7 +16,7 @@
   <img align="center" alt="type" margim-left="2" height="35" width="35" src="https://iconape.com/wp-content/png_logo_vector/typescript.png">
   <img align="center" alt="Euphoria" height="35" width="35" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
   <img align="center" alt="Batch script" height="35" width="35" src="https://adus.tech/wp-content/uploads/2021/05/html5-logo.png"/>
-  <img align="center" alt="Vb .NET/VB Classic/VBScript" height="30" width="35" src="https://e7.pngegg.com/pngimages/540/810/png-clipart-node-js-javascript-npm-computer-icons-web-application-others-miscellaneous-text.png">
+  <img align="center" alt="Vb .NET/VB Classic/VBScript" height="30" width="35" src="https://img.icons8.com/color/2x/nodejs.png">
 </div><br/>
 ##-🌐 Banco de dados dominantes: 
 <div><br>
