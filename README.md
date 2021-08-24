@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na empresa Menew digital
 - 🌱 Atualmente estou aprendendo react.js com TypeScript
-- 👯 Estou procurando colaborar em qualquer projeto que possa ajudar
+- 👯 Quero colaborar em qualquer projeto que possa ajudar
 - 💬 Pergunte-me?
  <div>
   <a href="https://github.com/LuanMiranda77"/>
