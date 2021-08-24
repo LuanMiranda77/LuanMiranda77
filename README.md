@@ -29,9 +29,8 @@
 ##- 📫 Como entrar em contato comigo:
   
 <div>
-  <a href="https://www.youtube.com/channel/UCbTiQU-AafevBRNyNoyMiPg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luanprof30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://t.me/devluanmiranda"><img src="https://img.shields.io/badge/%20-Telegram-blue?style=for-the-badge&logo=telegram" target="_blank"></a>
-  <a href = "https://t.me/devluanmiranda"><img src="https://ibb.co/gJJ8t7B" target="_blank"></a>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/XttPF4v/BUTTON-SAP.png" alt="BUTTON-SAP" border="0" /></a>
+  <a href="https://www.youtube.com/channel/UCbTiQU-AafevBRNyNoyMiPg" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luanprof30@gmail.com"><img align="center"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://t.me/devluanmiranda"><img align="center"  src="https://img.shields.io/badge/%20-Telegram-blue?style=for-the-badge&logo=telegram" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5583996386694"><img align="center" height="28" width="110"src="https://i.ibb.co/zrrN0d4/BUTTON-SAP.png" alt="BUTTON-SAP" border="0"></a>
 </div>
