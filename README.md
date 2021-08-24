@@ -21,7 +21,7 @@
 ##-🌐 Banco de dados dominantes: 
 <div><br>
    <img align="center" alt="Delphi" height="35" width="35" src="https://www.blogson.com.br/wp-content/uploads/2020/12/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png">
- <img align="center" alt="Lua" height="35" width="50" src="https://drive.google.com/file/d/1PovTEJn5XyVvTez9521FmmLHs-NrxaP5/view?usp=sharing">
+ <img align="center" alt="Lua" height="35" width="50" src="https://www.schneidersoftware.com.br/img/sistemas/postgresql-card.png">
   <img align="center" alt="Lua" height="35" width="50" src="https://apprecs.org/ios/images/app-icons/256/48/701199944.jpg">
 </div></br>
   
