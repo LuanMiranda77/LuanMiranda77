@@ -21,7 +21,7 @@ https://img.icons8.com/color/2x/nodejs.png### Luan Miranda 👋
 ##-🌐 Banco de dados dominantes: 
 <div><br>
    <img align="center" alt="Delphi" height="35" width="35" src="https://www.blogson.com.br/wp-content/uploads/2020/12/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png">
- <img align="center" alt="Lua" height="35" width="50" src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png">
+ <img align="center" alt="Lua" height="35" width="50" src="https://img.icons8.com/color/2x/postgreesql.png">
   <img align="center" alt="Lua" height="35" width="50" src="https://apprecs.org/ios/images/app-icons/256/48/701199944.jpg">
 </div></br>
   
