@@ -20,8 +20,8 @@
 </div><br/>
 ##-🌐 Banco de dados dominantes: 
 <div><br>
-   <img align="center" alt="Delphi" height="35" width="35" src="https://o.remove.bg/downloads/7d58d4ee-3919-4eef-9387-689dad86b1b3/image-removebg-preview.png">
- <img align="center" alt="Lua" height="35" width="50" src="https://o.remove.bg/downloads/008c5aa2-e378-4097-b984-2df3aca29af7/7043954_preview-removebg-preview.png">
+   <img align="center" alt="Delphi" height="35" width="35" src="https://drive.google.com/file/d/15h1NWknposU1oyQ7dgAAI9x-pOGr2y14/view?usp=sharing">
+ <img align="center" alt="Lua" height="35" width="50" src="https://drive.google.com/file/d/1PovTEJn5XyVvTez9521FmmLHs-NrxaP5/view?usp=sharing">
   <img align="center" alt="Lua" height="35" width="50" src="https://apprecs.org/ios/images/app-icons/256/48/701199944.jpg">
 </div></br>
   
