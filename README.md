@@ -1,4 +1,4 @@
-https://img.icons8.com/color/2x/nodejs.png### Luan Miranda 👋
+### Luan Miranda 👋
 
 - 🔭 Atualmente estou trabalhando na empresa Menew digital
 - 🌱 Atualmente estou aprendendo react.js com TypeScript
