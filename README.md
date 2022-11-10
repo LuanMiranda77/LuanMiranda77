@@ -21,7 +21,7 @@
 
 ## 💻 Tecs dominantes:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,angular,spring,react,nodejs,maven,netlify,materialui,figma,electron,docker,css,aws,html,tailwind,selenium,laravel,redux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,angular,spring,react,nodejs,maven,netlify,materialui,figma,electron,docker,css,aws,html,tailwind,selenium,laravel,redux,hibernate&theme=dark)](https://skillicons.dev)
 
 ## 🌐 Banco de dados dominantes: 
 
