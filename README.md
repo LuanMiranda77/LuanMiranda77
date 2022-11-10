@@ -19,15 +19,15 @@
 
 ----
 
-## 💻 Tecs dominantes:
+## 💻 Tecs dominantes
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,angular,spring,react,nodejs,maven,netlify,materialui,figma,electron,docker,css,aws,html,tailwind,selenium,laravel,redux,hibernate&theme=dark)](https://skillicons.dev)
 
-## 🌐 Banco de dados dominantes: 
+## 🌐 Banco de dados dominantes
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)
   
-## 📫 Como entrar em contato comigo:
+## 📫 Como entrar em contato comigo
   
 <div>
  
