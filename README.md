@@ -29,7 +29,7 @@
 ##- 📫 Como entrar em contato comigo:
   
 <div>
-  <a href = "[mailto:luanprof30@gmail.com](https://www.linkedin.com/in/luan-miranda-6b0177131/)"><img align="center"  height="28" width="115" 
+  <a href = "https://www.linkedin.com/in/luan-miranda-6b0177131/"><img align="center"  height="28" width="115" 
       src="https://img.shields.io/twitter/url?color=blue&label=LINKEDIN&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluan-miranda-6b0177131%2F" target="_blank">
   </a>
   <a href="https://www.youtube.com/channel/UCbTiQU-AafevBRNyNoyMiPg" target="_blank"><img align="center" height="28" width="115" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
