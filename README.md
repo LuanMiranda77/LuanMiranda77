@@ -2,10 +2,12 @@
 ----
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente estou trabalhando na empresa Menew digital
-- 🌱 Atualmente estou aprendendo Next.js
+- 🔭 Trabalho na empresa [Linx Sistemas](https://www.linx.com.br/)
+- 🌱 Estudando Next.js
 - 👯 Quero colaborar em qualquer projeto que possa ajudar
 - 💬 Pergunte-me?
+- 💻 Estou desenvolvendo um projeto freelancer para atuar no gerenciamento de empresas de médio e pequeno porte no âmbito de varejo.
+confira [aqui](https://github.com/LuanMiranda77/smart-commerce/tree/main/front-end) 
 
 
 
