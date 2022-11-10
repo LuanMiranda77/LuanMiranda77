@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 
 - 🔭 Atualmente estou trabalhando na empresa Menew digital
-- 🌱 Atualmente estou aprendendo react.js com TypeScript
+- 🌱 Atualmente estou aprendendo Next.js
 - 👯 Quero colaborar em qualquer projeto que possa ajudar
 - 💬 Pergunte-me?
 
