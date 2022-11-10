@@ -1,24 +1,33 @@
-### Luan Miranda 👋
+### Olá, eu sou Luan Miranda 👋
+----
+## 🚀 Sobre mim
 
 - 🔭 Atualmente estou trabalhando na empresa Menew digital
 - 🌱 Atualmente estou aprendendo react.js com TypeScript
 - 👯 Quero colaborar em qualquer projeto que possa ajudar
 - 💬 Pergunte-me?
+
+
+
+----
  <div>
   <a href="https://github.com/LuanMiranda77"/>
   <img height="145rem" src="https://github-readme-stats.vercel.app/api?username=LuanMiranda77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMiranda77&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##-💻 Tecs dominantes:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,angular,spring,react,postgres,nodejs,maven,netlify,materialui,figma,electron,docker,css,aws,html,tailwind&theme=dark)](https://skillicons.dev)
+----
 
-##-🌐 Banco de dados dominantes: 
+## 💻 Tecs dominantes:
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,angular,spring,react,nodejs,maven,netlify,materialui,figma,electron,docker,css,aws,html,tailwind,selenium,laravel,redux&theme=dark)](https://skillicons.dev)
+
+## 🌐 Banco de dados dominantes: 
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)
   
-##- 📫 Como entrar em contato comigo:
+## 📫 Como entrar em contato comigo:
   
 <div>
  
