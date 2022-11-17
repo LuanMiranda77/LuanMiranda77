@@ -47,7 +47,7 @@ confira [aqui](https://github.com/LuanMiranda77/smart-commerce/tree/main/front-e
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,angular,spring,react,nodejs,maven,netlify,materialui,figma,electron,docker,css,aws,html,tailwind,selenium,laravel,redux,hibernate&theme=dark)](https://skillicons.dev)
 
-## 🌐 Data Base dominant
+## 🌐 Database dominant
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)
 
