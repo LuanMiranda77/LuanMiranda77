@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&width=500&lines=Ola!+Luan+Miranda+aqui+%F0%9F%91%8B)](https://git.io/typing-svg)
 ----
-<div>
+<div align="center">
  <a href="https://www.linkedin.com/in/luan-miranda-6b0177131/" target="_blank"><img align="center" height="28" width="115" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCbTiQU-AafevBRNyNoyMiPg" target="_blank"><img align="center" height="28" width="115" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:luanprof30@gmail.com"><img align="center"  height="28" width="115" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
