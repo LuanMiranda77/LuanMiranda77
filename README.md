@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&width=500&lines=Ola!+Luan+Miranda+aqui+%F0%9F%91%8B)](https://git.io/typing-svg)
 ----
 <div align="center">
- <a href="https://www.linkedin.com/in/luan-miranda-6b0177131/" target="_blank"><img align="center" height="28" width="115" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/UCbTiQU-AafevBRNyNoyMiPg" target="_blank"><img align="center" height="28" width="115" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luanprof30@gmail.com"><img align="center"  height="28" width="115" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "https://t.me/devluanmiranda"><img align="center"  height="28" width="115" src="https://img.shields.io/badge/%20-Telegram-blue?style=for-the-badge&logo=telegram" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5583996386694"><img align="center" height="28" width="115" src="https://i.ibb.co/zrrN0d4/BUTTON-SAP.png" alt="BUTTON-SAP" border="0"></a>
+ <a href="https://www.linkedin.com/in/luan-miranda-6b0177131/" target="_blank"><img align="center" height="25" width="115" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCbTiQU-AafevBRNyNoyMiPg" target="_blank"><img align="center" height="25" width="115" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luanprof30@gmail.com"><img align="center"  height="25" width="115" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "https://t.me/devluanmiranda"><img align="center"  height="25" width="115" src="https://img.shields.io/badge/%20-Telegram-blue?style=for-the-badge&logo=telegram" target="_blank"></a>
+ <a href="https://api.whatsapp.com/send?phone=5583996386694"><img align="center" height="25" width="115" src="https://i.ibb.co/zrrN0d4/BUTTON-SAP.png" alt="BUTTON-SAP" border="0"></a>
 </div>
 
 ## 🚀 About me
