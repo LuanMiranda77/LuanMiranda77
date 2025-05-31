@@ -10,23 +10,25 @@
 
 ## 🚀 About me
 
-- 🔭 Trabalho na empresa [Linx Sistemas](https://www.linx.com.br/)
-- 🌱 Estudando Next.js
+- 🔭 Trabalho na empresa [AdviceHealth](https://advicehealth.com.br/) 
+- 🌱 Estudando Django Rest Framework
 - 👯 Quero colaborar em qualquer projeto que possa ajudar
-- 💬 Pergunte-me?
+- 💬 [Pergunte-me?](https://wa.me/5583996386694)
 - 💻 Estou desenvolvendo um projeto freelancer para atuar no gerenciamento de empresas de médio e pequeno porte no âmbito de varejo.
 confira [aqui](https://github.com/LuanMiranda77/smart-commerce/tree/main/front-end) 
 
 # :books: Education
+- <b>Web Development Specialist</b> at [IFPB Monteiro MG](https://www.ifsudestemg.edu.br/riopomba) <b>@</b> Instituto Federal de Minas campus Rio Pomba (2023 - 2024)
 - <b>System Analysis and Development</b> at [IFPB Monteiro PB](https://www.ifpb.edu.br/monteiro) <b>@</b> Instituto Federal da Paraíba campus Monteiro (2018 - 2022)
 
 # :briefcase: Work experience
 
 | Job Position         | Company                            | Field                | Work Period                |
 | ---------------------| ---------------------------------- | ---------------------| -------------------------- |
-| Develop Full Stack    | [Linx](https://www.linx.com.br/)   | Web Development      | 29.06.2021 — until now   |
-| Develop Full Stack       | [Synchro](https://www.synchro.com.br/)   | Web Development      | 01.06.2021 — 30.11.2021   |
-| Develop Full Stack       | [Parcelepag](https://parcelepag.com//)   | Web Development      | 01.05.2021 — 29.06.2021   |
+| Develop Full Stack   | [AdviceHealth](https://advicehealth.com.br/)   | Web Development     | 02.03.2023 — until now   |
+| Develop Full Stack   | [Linx](https://www.linx.com.br/)   | Web Development      | 29.06.2021 — 01.03.2023   |
+| Develop Full Stack   | [Synchro](https://www.synchro.com.br/)   | Web Development      | 01.06.2021 — 30.11.2021   |
+| Develop Full Stack   | [Parcelepag](https://parcelepag.com//)   | Web Development      | 01.05.2021 — 29.06.2021   |
 
 # :briefcase: working at
 <a align="center" href="https://github.com/LuanMiranda77/smart-commerce/tree/main/front-end">
@@ -45,7 +47,7 @@ confira [aqui](https://github.com/LuanMiranda77/smart-commerce/tree/main/front-e
 
 ## 💻 Techs dominant
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,angular,spring,react,nodejs,maven,netlify,materialui,figma,electron,docker,css,aws,html,tailwind,selenium,laravel,redux,hibernate&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,angular,spring,react,nodejs,maven,netlify,materialui,figma,electron,docker,css,aws,html,tailwind,selenium,laravel,redux,hibernate&theme=dark)](https://skillicons.dev)
 
 ## 🌐 Database dominant
 
